@@ -2,7 +2,7 @@
 //Uppdatd review and make a pull request so i can merge
 
 int is_prime(int n){
-
+//
     if ( n<=1 ) // 0 och 1 är inte primtal då ska de returnas 0
     {
         return 0;
