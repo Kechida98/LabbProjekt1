@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+//Uppdate make a review on the code and pull request so we can merge to main.
 // Ändra ej denna funktion (!)
 // Funktion för att be användaren om storleken på arrayen och returnera den
 int getArraySize()
