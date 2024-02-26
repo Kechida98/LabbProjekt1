@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Uppdatd review and make a pull request so i can merge
 
 int is_prime(int n){
 
