@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Review and make pull request so we can merge"
 char *text1 = "This is a string."; // Pekar på första tecknet (T)
 char *text2 = "This is another string but longer."; // Pekar på första tecknet (Y)
 int textArray1[50]; // Lagrar ASCII-värden från text1
