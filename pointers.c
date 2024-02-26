@@ -5,12 +5,12 @@ char *text2 = "This is another string but longer."; // Pekar på första tecknet
 int textArray1[50]; // Lagrar ASCII-värden från text1
 int textArray2[50]; // Lagrar ASCII-värden från text2
 int totalCharsCopied = 0; // Totalt antal kopierade tecken till båda arrayerna
-
+//
 // Implementera kopiering av ASCII-värden från en sträng till en array och räkna dem
 // Notera att array indexing tillåts inte och allt måste hanteras via pointers!
 void copyStringToAsciiValues(char *text, int *asciiValues, int *counter) {
     //int *beginasciivalues = asciiValues;//göra en kopia av pekaren
- 
+ //
  while (*text){
 
     *asciiValues=(int)*text;// vi konverterar typecastar först till int *text till Ascii värde och 
