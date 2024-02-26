@@ -10,7 +10,7 @@ int getArraySize()
     scanf("%d", &size);                    // Läser in användarens input och sparar det i variabeln 'size'
     return size;                           // Returnerar den inlästa storleken
 }
-
+//
 // Funktion för att initiera arrayen med heltal som räknas uppåt från ett startvärde
 // Uppgift 2
 void initializeArrayWithInput(int *arr, int size, int start)
