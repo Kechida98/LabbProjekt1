@@ -82,6 +82,9 @@ int main(void)
     }
 //
     initializeArrayWithInput(myArray, arraySize, 1);
+    printArrayAndAddresses(myArray, arraySize);
+
+    printf("\n“");
 
     performOperations(myArray, arraySize);
 
