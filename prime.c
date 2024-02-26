@@ -14,7 +14,7 @@ int is_prime(int n){
         
     }
     return 1; // else retunera 1 för då är det ett primtal 
-    
+  ///  
 }
 
 int main(void){
